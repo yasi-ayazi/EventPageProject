@@ -18,7 +18,7 @@ Add screenshots of your project here, showing the desktop and mobile views.
 
 ## Demo
 
-Provide a link to the live demo or GitHub Pages URL if available.
+<p><a href="https://codepen.io/yasi-ayazi/pen/zYgLYaN">EventPageProject</a></p>
 
 ## Getting Started
 
