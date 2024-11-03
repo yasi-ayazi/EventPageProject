@@ -18,7 +18,7 @@ Add screenshots of your project here, showing the desktop and mobile views.
 
 ## Demo
 
-<p><a href="https://codepen.io/yasi-ayazi/pen/zYgLYaN">EventPageProject</a></p>
+<p><a href="https://codepen.io/yasi-ayazi/pen/zYgLYaN" target="_blank">EventPageProject</a></p>
 
 ## Getting Started
 
